@@ -1,3 +1,3 @@
 # atividade
 atividade de teste
-gitclone <https://github.com/freeCodeCamp/freeCodeCamp.git>
+git clone <https://github.com/freeCodeCamp/freeCodeCamp.git>
